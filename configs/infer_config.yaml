@@ -1,0 +1,7 @@
+model_path: "./deberta3base_512"
+
+max_length: 2048
+
+test_dataset_path: "./test.json"
+
+predictions_path: "submission.csv"
